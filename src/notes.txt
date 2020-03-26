@@ -1,0 +1,15 @@
+Developement Notes
+
+Step 1
+
+    First write the readImage function and you need to add the following imports to use
+    the classes in the readImage function:
+
+    import java.awt.image.BufferedImage; // importing buffered Image class
+    import java.util.*;
+    import java.io.File; // importing File class
+    import javax.imageio.ImageIO; // imports the ImageIO
+
+Step 2
+
+1. write in the initial user input and line to read file based on it
